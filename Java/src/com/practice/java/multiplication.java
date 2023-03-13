@@ -1,4 +1,4 @@
-package day1;
+package com.practice.java;
 
 /*간단한 구구단 예제*/
 public class multiplication {
